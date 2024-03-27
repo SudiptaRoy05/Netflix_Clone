@@ -279,8 +279,26 @@ footer .questions{
         font-weight: 400;
         border-radius: 4px;
     }
-   
+    .faqBox{
+        
+        font-size: 18px;
+    }
 
+    .faq h2{
+        text-align: center;
+        font-size: 32px;
+    }
+   
+    footer{
+        color: white;
+        max-width: 90vw;
+        margin: auto;
+        padding: 34px;
+    }
+
+    .footerItem{
+        align-items: center;
+    }
     .footer{
         grid-template-columns: 1fr 1fr ;
     }
